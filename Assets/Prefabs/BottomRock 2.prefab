@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 70406585079557865}
   - component: {fileID: 6472798604120028939}
   m_Layer: 0
-  m_Name: BottomRock
+  m_Name: BottomRock 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 1375806123
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: d4097a9943b6a9e4499c94e6b8fa6fbd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0eadba667c6177d4b970211716c55e5e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
